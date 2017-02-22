@@ -666,6 +666,7 @@ users/.htpasswd
 /var/log/news/news.notice
 /var/log/news/suck.err
 /var/log/news/suck.notice
+/var/log/php5/php.log
 /var/log/poplog
 /var/log/POPlog
 /var/log/proftpd
